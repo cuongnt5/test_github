@@ -4,6 +4,10 @@ $(document).ready(function () {
         console.log("them nguoi dung");
     }
 
+    function themNguoiDung(){
+        console.log("them nguoi dung 2");
+    }
+    
     getListUser();
 
 
